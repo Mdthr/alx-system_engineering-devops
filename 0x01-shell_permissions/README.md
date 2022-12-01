@@ -1,1 +1,1 @@
-who iam i
+print all groups the current user
