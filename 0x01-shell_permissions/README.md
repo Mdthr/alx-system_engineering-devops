@@ -1,1 +1,1 @@
-shell premission
+who iam i
